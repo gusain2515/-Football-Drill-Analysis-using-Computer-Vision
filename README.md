@@ -2,10 +2,7 @@
 
 This project provides a Python-based solution for analyzing football drill videos. It uses state-of-the-art computer vision models to dynamically track footballs, identify the player, and determine which ball is actively being used in the drill (the "action ball").
 
-![Sample Output Animation](https://i.imgur.com/aBcDeFg.gif)
-*(Sample animation demonstrating the final output)*
 
----
 
 ## Features
 
